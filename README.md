@@ -44,6 +44,15 @@ Japanese Helper is an application designed to help you learn Japanese. It allows
 
 <br>
 
+## 🧑🏼‍💼 CustomerMan
+CustomerMan is a tool I created to manage my customers' subscriptions. It allows you to add a new customer, know all the customers who are currently subscribed, know the start and end date of a customer's subscription and much more.
+
+<p align="center">
+	<a href="https://github.com/leocdt/CustomerMan"><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183717866260938875/image.png?ex=65895a2b&is=6576e52b&hm=4a1997a023f33f65139b782fc73638018e628db764d0bf5066f5b37efe5fe8a2&" width="500"></a>
+</p>
+
+<br>
+
 <!--
 **leocdt/leocdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
