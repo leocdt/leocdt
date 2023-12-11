@@ -6,12 +6,12 @@ I’m a 19 years old french student in the University of Limoges and I study com
 
 <br>
 
-More informations on my website: [[leo-portfolio.live](http://leo-portfolio.live)]
+More informations on my website: [leo-portfolio.live](http://leo-portfolio.live)
 
 ## 📲 Contact
 <p align="center">
 	<a href="https://www.linkedin.com/in/l%C3%A9o-condat-390b982a1/">  
-		<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" WIDTH=194 HEIGHT=90>
 	</a>
  	<span>&nbsp;</span>
   	<a href="https://twitter.com/lcorpluze">
