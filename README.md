@@ -39,7 +39,7 @@ More informations on my website: [leo-portfolio.live](http://leo-portfolio.live)
 Japanese Helper is an application designed to help you learn Japanese. It allows you to learn hiraganas, katakanas and kanjis intuitively thanks to its various images, videos and games. It also has other Japan-related features, such as news updates.
 
 <p align="center">
-	<a href=""><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183715471422410812/image.png?ex=658957f0&is=6576e2f0&hm=987a0b2af02e3d23ba0470f1704ebf0fd435e8edcc2d661327db22cd3c1c4ae2&" width="6500"></a>
+	<a href=""><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183715471422410812/image.png?ex=658957f0&is=6576e2f0&hm=987a0b2af02e3d23ba0470f1704ebf0fd435e8edcc2d661327db22cd3c1c4ae2&" width="650"></a>
 </p>
 
 <br>
