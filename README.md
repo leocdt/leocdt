@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Alt text]https://cdn.discordapp.com/attachments/763090246912704512/1183703212272930877/image.png?ex=65894c85&is=6576d785&hm=71e3a47612ec0121662cbd293786a991134a112757eaea4acbe18877f45c9fe1&)
 <!--
 **leocdt/leocdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
