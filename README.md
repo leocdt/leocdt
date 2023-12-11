@@ -11,19 +11,19 @@ More informations on my website: [leo-portfolio.live](http://leo-portfolio.live)
 ## 📲 Contact
 <p align="center">
 	<a href="https://www.linkedin.com/in/l%C3%A9o-condat-390b982a1/">  
-		<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" WIDTH=194 HEIGHT=90>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" WIDTH=180 HEIGHT=75>
 	</a>
  	<span>&nbsp;</span>
   	<a href="https://twitter.com/lcorpluze">
-		<img src="https://iwb.jp/wp-content/uploads/2023/08/x-twitter-svg-logo-icon-code.png">
+		<img src="https://iwb.jp/wp-content/uploads/2023/08/x-twitter-svg-logo-icon-code.png" WIDTH=180 HEIGHT=75>
 	</a>
  	<span>&nbsp;</span>
 	<a href="mailto:leo.condat@etu.unilim.fr">
-		<img src="https://www.svgrepo.com/show/10726/email.svg">
+		<img src="https://www.svgrepo.com/show/10726/email.svg" WIDTH=180 HEIGHT=75>
 	</a>
  	<span>&nbsp;</span>
 	<a href="leo-portfolio.live">
-		<img src="https://www.svgrepo.com/show/229032/internet.svg">
+		<img src="https://www.svgrepo.com/show/229032/internet.svg" WIDTH=180 HEIGHT=75>
 	</a>
 
 
