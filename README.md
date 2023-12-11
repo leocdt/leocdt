@@ -13,6 +13,18 @@ More informations on my website: [[leo-portfolio.live](http://leo-portfolio.live
 	<a href="https://www.linkedin.com/in/l%C3%A9o-condat-390b982a1/">  
 		<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg">
 	</a>
+ 	<span>&nbsp;</span>
+  	<a href="https://twitter.com/lcorpluze">
+		<img src="https://iwb.jp/wp-content/uploads/2023/08/x-twitter-svg-logo-icon-code.png">
+	</a>
+ 	<span>&nbsp;</span>
+	<a href="mailto:leo.condat@etu.unilim.fr">
+		<img src="https://www.svgrepo.com/show/10726/email.svg">
+	</a>
+ 	<span>&nbsp;</span>
+	<a href="leo-portfolio.live">
+		<img src="https://www.svgrepo.com/show/229032/internet.svg">
+	</a>
 
 
 <!--
