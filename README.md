@@ -50,7 +50,7 @@ Japanese Helper is an application designed to help you learn Japanese. It allows
 CustomerMan is a tool I created to manage my customers' subscriptions. It allows you to add a new customer, know all the customers who are currently subscribed, know the start and end date of a customer's subscription and much more.
 
 <p align="center">
-	<a href="https://github.com/leocdt/CustomerMan"><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183717866260938875/image.png?ex=65895a2b&is=6576e52b&hm=4a1997a023f33f65139b782fc73638018e628db764d0bf5066f5b37efe5fe8a2&" width="650"></a>
+	<a href="https://github.com/leocdt/CustomerMan"><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183717866260938875/image.png?ex=65895a2b&is=6576e52b&hm=4a1997a023f33f65139b782fc73638018e628db764d0bf5066f5b37efe5fe8a2&" width="0"></a>
 </p>
 
 <br>
@@ -61,7 +61,7 @@ CustomerMan is a tool I created to manage my customers' subscriptions. It allows
 2048 AI is an artificial intelligence coded in Python that allows you to play the 2048 game almost perfectly.
 
 <p align="center">
-	<a href="https://github.com/leocdt/2048-AI"><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183719751961292890/image.png?ex=65895bed&is=6576e6ed&hm=dafda0363e40a9ddbae809d68f2ce18c6202b046e36021f24773be2e0d1e0cf7&" width="650"></a>
+	<a href="https://github.com/leocdt/2048-AI"><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183719751961292890/image.png?ex=65895bed&is=6576e6ed&hm=dafda0363e40a9ddbae809d68f2ce18c6202b046e36021f24773be2e0d1e0cf7&" width="500"></a>
 </p>
 
 <br>
