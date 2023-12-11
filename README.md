@@ -8,6 +8,9 @@ I’m a 19 years old french student in the University of Limoges and I study com
 
 More informations on my website: [leo-portfolio.live](http://leo-portfolio.live)
 
+<br>
+<br>
+
 # 📲 Contact
 <p align="center">
 	<a href="https://www.linkedin.com/in/l%C3%A9o-condat-390b982a1/">  
@@ -26,6 +29,7 @@ More informations on my website: [leo-portfolio.live](http://leo-portfolio.live)
 		<img src="https://www.svgrepo.com/show/229032/internet.svg" WIDTH=180 HEIGHT=75>
 	</a>
 
+ <br>
  <br>
 
 # 📂 Projects
