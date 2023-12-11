@@ -26,7 +26,18 @@ More informations on my website: [leo-portfolio.live](http://leo-portfolio.live)
 		<img src="https://www.svgrepo.com/show/229032/internet.svg" WIDTH=180 HEIGHT=75>
 	</a>
 
+ <br>
+
 # 📂 Projects
+
+## ⛩️ Japanese Helper
+Japanese Helper is an application designed to help you learn Japanese. It allows you to learn hiraganas, katakanas and kanjis intuitively thanks to its various images, videos and games. It also has other Japan-related features, such as news updates.
+
+<p align="center">
+	<a href="https://github.com/angeluriot/Generative_adversarial_network"><img src="https://raw.githubusercontent.com/angeluriot/Generative_adversarial_network/master/resources/misc/thumbnail.png" width="500"></a>
+</p>
+
+<br>
 
 <!--
 **leocdt/leocdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
