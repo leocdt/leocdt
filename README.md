@@ -9,7 +9,6 @@ I’m a 19 years old french student in the University of Limoges and I study com
 More informations on my website: [leo-portfolio.live](http://leo-portfolio.live)
 
 <br>
-<br>
 
 # 📲 Contact
 <p align="center">
