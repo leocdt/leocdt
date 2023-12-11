@@ -15,7 +15,7 @@ More informations on my website: [leo-portfolio.live](http://leo-portfolio.live)
 	</a>
  	<span>&nbsp;</span>
   	<a href="https://twitter.com/lcorpluze">
-		<img src="https://iwb.jp/wp-content/uploads/2023/08/x-twitter-svg-logo-icon-code.png" WIDTH=180 HEIGHT=75>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" WIDTH=180 HEIGHT=75>
 	</a>
  	<span>&nbsp;</span>
 	<a href="mailto:leo.condat@etu.unilim.fr">
