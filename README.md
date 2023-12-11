@@ -1,4 +1,4 @@
-![Alt text](https://cdn.discordapp.com/attachments/763090246912704512/1183703212272930877/image.png?ex=65894c85&is=6576d785&hm=71e3a47612ec0121662cbd293786a991134a112757eaea4acbe18877f45c9fe1&)
+![Alt text](https://cdn.discordapp.com/attachments/763090246912704512/1183711264782942238/image.png?ex=65895405&is=6576df05&hm=bd04da7498ee30ffd9052634cb40e9b010ab25f79655d49148395cfc6e18bf50&)
 
 ## 👀 About Me
 Hi, my name is Condat Léo. I’m a Software Student.
