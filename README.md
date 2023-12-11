@@ -36,6 +36,8 @@ More informations on my website: [leo-portfolio.live](http://leo-portfolio.live)
 # 📂 Projects
 
 ## ⛩️ Japanese Helper
+⚠️ This project is currently under development ⚠️
+<br>
 Japanese Helper is an application designed to help you learn Japanese. It allows you to learn hiraganas, katakanas and kanjis intuitively thanks to its various images, videos and games. It also has other Japan-related features, such as news updates.
 
 <p align="center">
@@ -49,6 +51,17 @@ CustomerMan is a tool I created to manage my customers' subscriptions. It allows
 
 <p align="center">
 	<a href="https://github.com/leocdt/CustomerMan"><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183717866260938875/image.png?ex=65895a2b&is=6576e52b&hm=4a1997a023f33f65139b782fc73638018e628db764d0bf5066f5b37efe5fe8a2&" width="650"></a>
+</p>
+
+<br>
+
+## 🤖 2048 AI
+⚠️ This project is currently under development ⚠️
+<br>
+2048 AI is an artificial intelligence coded in Python that allows you to play the 2048 game almost perfectly.
+
+<p align="center">
+	<a href="https://github.com/leocdt/2048-AI"><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183719751961292890/image.png?ex=65895bed&is=6576e6ed&hm=dafda0363e40a9ddbae809d68f2ce18c6202b046e36021f24773be2e0d1e0cf7&" width="650"></a>
 </p>
 
 <br>
