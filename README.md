@@ -35,7 +35,7 @@ More informations on my website: [leo-portfolio.live](http://leo-portfolio.live)
 
 # 📂 Projects
 
-## ⛩️ [Japanese Helper]("")
+## ⛩️ [Japanese Helper]("https://github.com/leocdt/Japanese-Helper")
 ⚠️ This project is currently under development ⚠️
 <br>
 Japanese Helper is an application designed to help you learn Japanese. It allows you to learn hiraganas, katakanas and kanjis intuitively thanks to its various images, videos and games. It also has other Japan-related features, such as news updates.
