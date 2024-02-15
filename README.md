@@ -41,7 +41,7 @@ More informations on my website: [leo-portfolio.live](http://leo-portfolio.live)
 Japanese Helper is an application designed to help you learn Japanese. It allows you to learn hiraganas, katakanas and kanjis intuitively thanks to its various images, videos and games. It also has other Japan-related features, such as news updates.
 
 <p align="center">
-	<a href=""><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183715471422410812/image.png?ex=658957f0&is=6576e2f0&hm=987a0b2af02e3d23ba0470f1704ebf0fd435e8edcc2d661327db22cd3c1c4ae2&" width="650"></a>
+	<a href="https://github.com/leocdt/Japanese-Helper"><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183715471422410812/image.png?ex=658957f0&is=6576e2f0&hm=987a0b2af02e3d23ba0470f1704ebf0fd435e8edcc2d661327db22cd3c1c4ae2&" width="650"></a>
 </p>
 
 <br>
@@ -50,7 +50,7 @@ Japanese Helper is an application designed to help you learn Japanese. It allows
 CustomerMan is a tool I created to manage my customers' subscriptions. It allows you to add a new customer, know all the customers who are currently subscribed, know the start and end date of a customer's subscription and much more.
 
 <p align="center">
-	<a href="https://github.com/leocdt/CustomerMan"><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183717866260938875/image.png?ex=65895a2b&is=6576e52b&hm=4a1997a023f33f65139b782fc73638018e628db764d0bf5066f5b37efe5fe8a2&" width="0"></a>
+	<a href="https://github.com/leocdt/CustomerMan"><img src="https://cdn.discordapp.com/attachments/763090246912704512/1183717866260938875/image.png?ex=65895a2b&is=6576e52b&hm=4a1997a023f33f65139b782fc73638018e628db764d0bf5066f5b37efe5fe8a2&" width="600"></a>
 </p>
 
 <br>
