@@ -35,6 +35,16 @@ More informations on my website:[leo-cdt.atwebpages.com](http://leo-cdt.atwebpag
 
 # 📂 Projects
 
+## [ 💡 ConsAnalysis](https://github.com/leocdt/ConsAnalysisPublic)
+
+ConsAnalysis is a data Visualization Web App made for the LeGrand company
+
+<p align="center">
+	<a href="https://github.com/leocdt/ConsAnalysisPublic"><img src="https://i.ibb.co/Wp6pwB2/90fd7426-8470-4f40-9f13-69138a1dffce.webp" width="650"></a>
+</p>
+
+<br>
+
 ## [ ⛩️ Japanese Helper](https://github.com/leocdt/Japanese-Helper)
 ⚠️ This project is currently under development ⚠️
 <br>
