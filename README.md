@@ -14,7 +14,7 @@ More informations on my website:[leo-cdt.atwebpages.com](http://leo-cdt.atwebpag
 
 # 📲 Contact
 <p align="center">
-	<a href="https://www.linkedin.com/in/l%C3%A9o-condat-390b982a1/">  
+	<a href="https://www.linkedin.com/in/leo-cdt">  
 		<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" WIDTH=180 HEIGHT=75>
 	</a>
  	<span>&nbsp;</span>
