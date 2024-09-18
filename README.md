@@ -4,7 +4,7 @@
 
 # 👀 About Me
 Hi, my name is Condat Léo. I’m a Software Student.
-I’m a 19 years old french student in the University of Limoges and I study computer science. My favorite fields are software development, web development and artificial intelligence. l’m open to any opportunity.
+I’m a 20 years old french student in the University of Limoges and I study computer science. My favorite fields are software development, web development and artificial intelligence. l’m open to any opportunity.
 
 <br>
 
