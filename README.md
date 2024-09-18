@@ -26,7 +26,7 @@ More informations on my website:[leo-cdt.atwebpages.com](http://leo-cdt.atwebpag
 		<img src="https://www.svgrepo.com/show/10726/email.svg" WIDTH=180 HEIGHT=75>
 	</a>
  	<span>&nbsp;</span>
-	<a href="http://leo-portfolio.live/">
+	<a href="http://leo-cdt.atwebpages.com/">
 		<img src="https://www.svgrepo.com/show/229032/internet.svg" WIDTH=180 HEIGHT=75>
 	</a>
 
