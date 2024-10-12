@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="http://leo-portfolio.live/"><img src="https://i.ibb.co/1zZ5xFg/welcome.png" width="100%"></a>
+	<a href="http://www.leo-cdt.tech/"><img src="https://i.ibb.co/1zZ5xFg/welcome.png" width="100%"></a>
 </p>
 
 # 👀 About Me
@@ -8,7 +8,7 @@ I’m a 20 years old french student in the University of Limoges and I study com
 
 <br>
 
-More informations on my website:[leo-cdt.tech](http://www.leo-cdt.tech/)
+More informations on my website: [leo-cdt.tech](http://www.leo-cdt.tech/)
 
 <br>
 
