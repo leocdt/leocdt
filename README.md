@@ -8,7 +8,7 @@ I’m a 20 years old french student in the University of Limoges and I study com
 
 <br>
 
-More informations on my website:[leo-cdt.atwebpages.com](http://leo-cdt.atwebpages.com/)
+More informations on my website:[leo-cdt.tech](http://www.leo-cdt.tech/)
 
 <br>
 
@@ -26,7 +26,7 @@ More informations on my website:[leo-cdt.atwebpages.com](http://leo-cdt.atwebpag
 		<img src="https://www.svgrepo.com/show/10726/email.svg" WIDTH=180 HEIGHT=75>
 	</a>
  	<span>&nbsp;</span>
-	<a href="http://leo-cdt.atwebpages.com/">
+	<a href="http://leo-cdt.tech/">
 		<img src="https://www.svgrepo.com/show/229032/internet.svg" WIDTH=180 HEIGHT=75>
 	</a>
 
