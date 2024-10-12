@@ -56,6 +56,17 @@ Japanese Helper is an application designed to help you learn Japanese. It allows
 
 <br>
 
+## [ 🎧 Real Time Audio Analysis](https://github.com/leocdt/Real-Time-Audio-Spectrogram)
+⚠️ This project is currently under development ⚠️
+<br>
+This little project lets you visualise the sound of the microphone of the device on which the code is being run in the form of a live spectrogram. It is currently being updated to become a more complete real-time audio visualization app with audio wave, spectrogram and mel spectrogram representation, and all with live mic sound.
+
+<p align="center">
+	<a href="https://github.com/leocdt/Real-Time-Audio-Spectrogram"><img src="https://i.ibb.co/hmSShxC/image.png" width="650"></a>
+</p>
+
+<br>
+
 ## 🧑🏼‍💼 [CustomerMan](https://github.com/leocdt/CustomerMan)
 CustomerMan is a tool I created to manage my customers' subscriptions. It allows you to add a new customer, know all the customers who are currently subscribed, know the start and end date of a customer's subscription and much more.
 
