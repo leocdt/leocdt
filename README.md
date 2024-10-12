@@ -37,7 +37,7 @@ More informations on my website: [leo-cdt.tech](http://www.leo-cdt.tech/)
 
 ## [ 💡 ConsAnalysis](https://github.com/leocdt/ConsAnalysisPublic)
 
-ConsAnalysis is a data Visualization Web App made for the LeGrand company
+ConsAnalysis is a data Visualization Web App made for the [LeGrand](https://www.legrand.us/) company
 
 <p align="center">
 	<a href="https://github.com/leocdt/ConsAnalysisPublic"><img src="https://i.ibb.co/Wp6pwB2/90fd7426-8470-4f40-9f13-69138a1dffce.webp" width="650"></a>
