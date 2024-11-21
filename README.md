@@ -37,7 +37,7 @@ More informations on my website: [leo-cdt.tech](http://www.leo-cdt.tech/)
 
 ## [ 🤖 RAGAdmin](https://github.com/leocdt/RAGAdmin)
 
-Local RAG (Retrieval-Augmented Generation) for the [La Poste](https://www.laposte.fr/) company.
+Local RAG (Retrieval-Augmented Generation) made for the [La Poste](https://www.laposte.fr/) company.
 
 <p align="center">
 	<a href="https://github.com/leocdt/RAGAdmin"><img src="https://i.ibb.co/fYWxs4g/ragadmin.png" width="650"></a>
