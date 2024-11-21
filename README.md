@@ -35,9 +35,19 @@ More informations on my website: [leo-cdt.tech](http://www.leo-cdt.tech/)
 
 # 📂 Projects
 
+## [ 🤖 RAGAdmin](https://github.com/leocdt/RAGAdmin)
+
+Local RAG (Retrieval-Augmented Generation) for the [La Poste](https://www.laposte.fr/) company.
+
+<p align="center">
+	<a href="https://github.com/leocdt/RAGAdmin"><img src="https://i.ibb.co/fYWxs4g/ragadmin.png" width="650"></a>
+</p>
+
+<br>
+
 ## [ 💡 ConsAnalysis](https://github.com/leocdt/ConsAnalysisPublic)
 
-ConsAnalysis is a data Visualization Web App made for the [LeGrand](https://www.legrand.us/) company
+ConsAnalysis is a data Visualization Web App made for the [LeGrand](https://www.legrand.us/) company.
 
 <p align="center">
 	<a href="https://github.com/leocdt/ConsAnalysisPublic"><img src="https://i.ibb.co/Wp6pwB2/90fd7426-8470-4f40-9f13-69138a1dffce.webp" width="650"></a>
