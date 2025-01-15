@@ -29,6 +29,10 @@ More informations on my website: [leo-cdt.tech](http://www.leo-cdt.tech/)
 	<a href="http://leo-cdt.tech/">
 		<img src="https://www.svgrepo.com/show/229032/internet.svg" WIDTH=180 HEIGHT=75>
 	</a>
+ 	<span>&nbsp;</span>
+	<a href="http://leo-cdt.tech/">
+		<img src="https://upload.wikimedia.org/wikipedia/fr/7/75/Snapchat.png?20230424210458" WIDTH=100 HEIGHT=75>
+	</a>
 
  <br>
  <br>
