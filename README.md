@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="http://www.leo-cdt.tech/"><img src="https://i.ibb.co/Wps6YTL/Leo-Cdt-1.gif" width="80%"></a>
+	<a href="http://www.leo-cdt.tech/"><img src="Leo.gif" width="80%"></a>
 </p>
 
 # 👀 About Me
