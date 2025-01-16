@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="http://www.leo-cdt.tech/"><img src="Leo.gif" width="80%"></a>
+	<a href="http://www.leo-cdt.tech/"><img src="https://i.ibb.co/1zZ5xFg/welcome.png" width="100%"></a>
 </p>
 
 # 👀 About Me
@@ -28,10 +28,6 @@ More informations on my website: [leo-cdt.tech](http://www.leo-cdt.tech/)
  	<span>&nbsp;</span>
 	<a href="http://leo-cdt.tech/">
 		<img src="https://www.svgrepo.com/show/229032/internet.svg" WIDTH=180 HEIGHT=75>
-	</a>
- 	<span>&nbsp;</span>
-	<a href="http://leo-cdt.tech/">
-		<img src="https://upload.wikimedia.org/wikipedia/fr/7/75/Snapchat.png?20230424210458" WIDTH=100 HEIGHT=75>
 	</a>
 
  <br>
